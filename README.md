@@ -1,34 +1,44 @@
-# Hi there 👋
+## Full Name: Jonathan Moussa NDAO
 
-I'm Jonathan Moussa NDAO, a junior software architect who is passionate about creating efficient and scalable software solutions. I have expertise in programming languages such as TypeScript, Python, and C++, and I'm an intermediary in the latter.
+I'm a Full Stack Engineer developer who work on efficient and scalable systems. 
+My main programming tools are TypeScript & Python, but also versatile in many more programming 
+languages such as PHP & Java. I like to take on new challenges and realize big things that help
+people on their daily needs.
 
 ## Skills ✍🏾
 
-- Programming languages: TypeScript, Python, C++ (intermediary)
+- Main Programming languages: TypeScript & Python.
 - Microservices architecture
-- AWS Services: EKS, Route53, Cert Manager, ELB, AWS X-Ray, DynamoDB, Amazon RDS
-- Kubernetes
-- Docker
+- AWS Services: EKS, Route53, Cert Manager, DocumentDB, AWS Lambda, S3, ECR, EC2, ALB, ...
+- Kubernetes / Terraform
+- Docker / ECR
 - Front-End: React JS, NextJS, TailwindCSS, etc
 - Back-End: NodeJS, Django, Flask
 
-## Experience 👴🏾
+## Experience 👴🏾 (Not that old)
 
-- Caytu, Intern (Junior) Software Architect , 22-up-to-date 
+- Caytu, Part-time (Junior) Software Architect , 22-up-to-date 
 - Easy Money, Software Developer, 21-22
 
 ## Projects 💻
+
+I've worked on many project with various tools (Django, Laravel, React Native, ElectronJS) to meet
+customer requirements and needs. Some projects are privates, however the public ones are enough to
+showcase my skills.
 
 - Check Github Repositories 🙂
   
 ## Certifications 🎓
 
+- 
 - Microservices with Node JS and React, Udemy, 2023
 - AWS EKS Kubernetes-Masterclass | DevOps, Microservices, Udemy, 2023
+- Others more... 
 
 ## Education 📖
 
 - Computer Science, [DAUST](www.daust.org), Senior Student
+- Telecommunications & Networking, EC2LT, Technician (2 years of training)
 
 ## Contact 📧
 
