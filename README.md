@@ -15,7 +15,7 @@ Cloud & Full Stack Engineer passionate about building scalable systems and AI-po
 
 ## Currently
 
-Building at **Caytu** | AWS Certified | Based in Dakar, Senegal
+Building at **Caytu** | Based in Dakar, Senegal
 
 ## Connect
 
