@@ -11,6 +11,7 @@ Cloud & Full Stack Engineer passionate about building scalable systems and AI-po
 
 ## Featured Project
 
+**[auth-flow](https://auth-flow-virid.vercel.app)** - Universal authentication client for JavaScript applications with production-ready features
 **[mongoose-ai](https://mongoose-ai.vercel.app)** - AI-powered MongoDB plugin with semantic search and cost-effective token optimization
 
 ## Currently
